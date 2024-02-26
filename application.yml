@@ -1,2 +1,6 @@
-spring.data.mongodb.uri=mongodb+srv://root:TahaBail1@cluster0.9tihwfk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-spring.data.mongodb.database=studentdb
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:TahaBail1@cluster0.9tihwfk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: studentdb
+
